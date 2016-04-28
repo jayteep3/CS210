@@ -4,3 +4,4 @@ This read me contains the contributions to the group.
 JT Palmer, Cameron Kaiser, Matt Joy.
 
 Github is really cool, we can all work on a project at the same time from our local machine!
+GitHub is confusing at first, but really useful! -Matt
